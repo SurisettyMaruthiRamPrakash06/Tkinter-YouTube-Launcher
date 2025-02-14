@@ -33,9 +33,6 @@ This project uses Tkinter, which is included with Python by default. No addition
 2. Select a video from the playlist.
 3. Click **"Play"** to open the selected video in your default web browser.
 
-## Screenshot
-![App Screenshot](screenshot.png) *(Replace with actual screenshot)*
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
