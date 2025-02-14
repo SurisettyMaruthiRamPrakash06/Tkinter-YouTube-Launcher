@@ -25,7 +25,7 @@ This project uses Tkinter, which is included with Python by default. No addition
    ```
 3. Run the application:
    ```sh
-   python main.py
+   python Tkinter-YouTube-Launcher.py
    ```
 
 ## Usage
